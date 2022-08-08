@@ -17,7 +17,7 @@ Things Ive learned about Linux that might help you
 <h3>&nbsp;</h3>
 <h3><strong>Step 1:</strong></h3>
 <p>Make sure your system is updated</p>
-<p>Then run the following command in your terminal</p>
+<p>Then run the following commands in your terminal</p>
 <p>&nbsp;</p>
 <pre class="wp-block-code"><code>sudo pacman -S archlinux-keyring</code></pre>
 <pre class="wp-block-code"><code>sudo pacman -S qemu virt-manager virt-viewer dnsmasq vde2 bridge-utils openbsd-netcat libguestfs ebtables iptables<br /><br /><br /></code></pre>
